@@ -1,4 +1,8 @@
 # Menopausal Symptoms, Lipid Profiles, and Cardiovascular Health: A Longitudinal Machine Learning & Statistical Analytics Pipeline
+## 🌐 Live Project Deployment
+Get hands-on experience with our analytics pipeline. Access the fully responsive analytical dashboard, interactive K-Means patient clustering models, and multi-system biological correlation heatmaps:
+
+### [👉 CLICK HERE TO VIEW THE FULL INTERACTIVE REPORT](https://phyonyeinchan.github.io/menopause-longitudinal-vis/)
 
 ## 📌 Background & Research Objective
 Menopause marks a critical neuroendocrine and metabolic transition in a woman’s life, characterized by profound hormonal shifts and bothersome vasomotor symptoms (VMS), such as hot flashes and night sweats. Emerging clinical and epidemiological research suggests that severe, persistent VMS are not merely transient quality-of-life complaints but may serve as sentinel biomarkers for elevated subclinical cardiovascular disease (CVD) and accelerated metabolic risk.
